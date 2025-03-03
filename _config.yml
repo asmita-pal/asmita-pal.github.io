@@ -44,9 +44,9 @@ sass:
 # Site Data
 url: https://asmita-pal.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Asmita Pal personal website
+title: Asmita Pal's personal website
 description: Asmita Pal, PhD Candidate in Computer Architecture at University of Wisconsin-Madison
-keywords: 'PhD student, computer architecture, approximate computing, hardware, AI, chip design, security'
+keywords: 'Asmita Pal, UW-Madison, PhD student, computer architecture, approximate computing, hardware, AI, chip design, security'
 author:
   name: Asmita Pal
   job_title: PhD Candidate
