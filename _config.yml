@@ -11,7 +11,7 @@ exclude:
     'node_modules',
     'Rakefile',
     'starter-kit',
-    'yizeng.github.io',
+    'asmita-pal.github.io',
     'vendor',
   ]
 lang: en
@@ -42,48 +42,37 @@ sass:
   style: compressed
 
 # Site Data
-url: http://yizeng.me # the base hostname & protocol for your site, e.g. http://example.com
+url: https://asmita-pal.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Yi Zeng’s Blog
-description: 'Personal blog for Yi Zeng, a senior software engineer based in Berlin, Germany.'
-keywords: 'software,engineer,testing,full-stack,christchurch,newzealand,berlin,germany'
+title: Asmita Pal personal website
+description: Asmita Pal, PhD Candidate in Computer Architecture at University of Wisconsin-Madison
+keywords: 'PhD student, computer architecture, approximate computing, hardware, AI, chip design, security'
 author:
-  name: Yi Zeng
-  job_title: Full-stack Developer
-  location: Berlin, Germany
+  name: Asmita Pal
+  job_title: PhD Candidate
+  location: UW-Madison
   # email: developer@yizeng.me
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/
-    # - name: instagram
-    #   url: https://www.instagram.com/yizeng.me
+      url: https://github.com/asmita-pal/
     - name: linkedin
-      url: https://www.linkedin.com/in/yizengnz/
-    - name: stackoverflow
-      url: https://stackoverflow.com/users/1177636/yi-zeng
-    - name: twitter
-      url:
-    # - name: vk
-    #   url: https://vk.com/yi.zeng
+      url: https://www.linkedin.com/in/asmita-pal/
 home:
   section1:
   section2:
   section3:
 blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
-  cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
-  footer_content: Yi Zeng, a senior software engineer based in Berlin, Germany.
+  cc_license:  # A link to CC License
+  cc_license_image: # Choose one at https://creativecommons.org/choose/
+  footer_content: 
 
 disqus:
-  shortname: yizeng
-  public_key: ULZ0b9TFdfCUJSKQd4WCKv2v3u25YoG7YG8zXPewkWrT35lZ0Se9YnxLzoV6VM8W
-google_tag_manager: 'GTM-P5NFP45'
-addthis_public_id: ra-53819e27689934f9 # AddThis sharing plugin. See http://www.addthis.com/
+  shortname: 
+  public_key: 
+google_tag_manager: 
+addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
   home: /
-  blog: /blog/
-  categories: /blog/categories/
-  tags: /blog/tags/
