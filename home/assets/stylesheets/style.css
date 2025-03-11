@@ -143,15 +143,6 @@ a:focus {
   }
 }
 
-.navbar-custom .navbar-collapse {
-  display: flex;
-  justify-content: flex-end;  /* Push items to the right */
-}
-
-.navbar-custom .navbar-nav {
-  margin-left: auto;  /* Push navigation menu to the right */
-}
-
 
 
 .about-me p{
